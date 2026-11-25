@@ -1,0 +1,6 @@
+{
+  "name": "RentFlow SaaS - Multi-Tenant Rental & Property Management",
+  "description": "Enterprise multi-tenant rental management SaaS platform with three isolated payment pipelines (M-Pesa STK & manual verification), role-based dashboards for Admins, Agents, Landlords, and Tenants, lease tracking, utility billing, and automated reminders in Kenyan Shillings (KES).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
